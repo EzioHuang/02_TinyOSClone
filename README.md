@@ -102,3 +102,4 @@ by github repository settings.   gh:tinyos/tinyos-main refers to the repository 
 if that repository is pulled it will reference the default branch.
 
 Local repositories are referenced using local(branch).
+practice branch based on the clone code
